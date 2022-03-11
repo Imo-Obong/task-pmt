@@ -1,0 +1,169 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.Navbar-section{
+    background-color: #423e92 !important;
+    font-size: 8px !important;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+.account{
+    background-color: #f4843a !important;
+    border-radius: 50px !important;
+    padding: 5px 7px !important;
+}
+.Transit{
+    color: #f4843a !important;
+}
+.peebook{
+    background-color:  #f4843a !important;
+    color: #fff;
+    text-decoration: none !important;
+    border: none !important;
+    font-size: 13px;
+    padding: 8px 40px;
+    border-radius: 5px;
+    margin-left: 7rem !important;
+}
+.peemass{
+    font-size: 20px !important;
+    color: rgb(66, 62, 146);
+}
+.second2 h1{
+    color: rgb(66, 62, 146);
+}
+.second2{
+    margin-top: 7rem !important;
+}
+.Third-sec{
+    background-color: #f3f3f3 !important;
+}
+.img1{
+    margin-top: 10rem !important;
+}
+.img2{
+    margin-top: 10rem !important;
+}
+.btn1{
+    background-color:  #f4843a !important;
+    color: #fff;
+    text-decoration: none !important;
+    border: none !important;
+    font-size: 13px;
+    padding: 8px 40px;
+    border-radius: 5px;
+    margin-bottom: 2rem !important;
+    /* margin-top: 1.5rem !important; */
+}
+.btn0{
+    background-color:  #f4843a !important;
+    color: #fff;
+    text-decoration: none !important;
+    border: none !important;
+    font-size: 13px;
+    padding: 8px 35px;
+    border-radius: 5px;
+    margin-bottom: 2rem !important;
+}
+.Third-sec{
+    text-align: center !important;
+    justify-content: center !important;
+    height: 42rem !important;
+   
+}
+.btn2{
+    background-color:  #f4843a !important;
+    color: #fff;
+    text-decoration: none !important;
+    border: none !important;
+    font-size: 13px;
+    padding: 8px 35px;
+    border-radius: 5px;
+    margin-top: 1.4rem !important;
+    margin-bottom: 2rem !important;
+}
+.third-one {
+    margin-bottom: 2rem !important;
+    background-color: #fff;
+    margin-top: 1rem !important;
+
+}
+.hesh2do{
+    padding-top: 5rem !important;
+    margin-bottom: 4rem !important;
+    font-weight: 400;
+    
+}
+.third-two{
+    margin-bottom: 2rem !important;
+    background-color: #fff;
+}
+.third-three{
+    background-color: #fff;
+    margin-bottom: 2rem !important;
+}
+.card-text{
+    font-size: 15px !important;
+}
+.card-title{
+    font-size: 15px !important;
+    font-weight: normal !important;
+}
+
+.fourth-section{
+    background-image: linear-gradient(
+127deg
+, rgb(244, 132, 60), rgb(68, 77, 146));
+ background-color: rgba(0,0,0,.1)!important;
+   height: 22rem !important;
+}
+.fourth1, .fourth2{
+    color: #fff !important;
+    text-align: center !important;
+}
+.input-fourth1{
+    padding: 0.6rem 7rem !important;
+}
+.input-fourth2{
+    padding: 0.6rem 7rem !important;
+}
+.fifth-sec{
+    background-color: #f3f3f3 !important;
+    text-align: center !important;
+    justify-content: center !important;
+    height: 40rem !important;
+}
+.hesh2products{
+    padding-top: 6rem !important;
+    margin-bottom: 4rem !important;
+}
+.section-six h5{
+    color: #f4843a !important;
+    font-size: 15px !important;
+}
+.section-six{
+    background-color: rgb(24, 23, 23);
+    color: #fff;
+}
+.section-six a{
+    color: rgb(229, 226, 226) !important;
+    font-size: 10px !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+@media only screen and (max-width: 990px) {
+    .First-section{
+        display: block !important;
+    }
+    .second-sec{
+        display: block !important;
+    }
+    .third-container{
+        display: block !important;
+    }
+}
+
+
